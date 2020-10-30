@@ -209,3 +209,46 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+
+/*about page css*/
+
+.about {
+    border-bottom: 1px dashed black;
+    margin-bottom: 5%;
+    padding-bottom: 5%;
+}
+
+.strategyHow, .workColab {
+    display: flex;
+    width: 100%;
+    margin-bottom: 5%;
+}
+
+.strategy, .how, .work, .colab {
+    border-bottom: 1px dashed black;
+    
+}
+
+.strategy, .work {
+    margin-right: 5%;
+}
+
+.how, .colab {
+    margin-left: 5%;
+}
+
+.strategy img, .how img, .work img, .colab img{
+    width: 100%;
+    margin-bottom: 5%;
+}
+
+.learn {
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 50%;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
