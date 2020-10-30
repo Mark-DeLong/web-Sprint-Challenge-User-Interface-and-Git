@@ -217,7 +217,7 @@ footer nav a {
 .about {
     border-bottom: 1px dashed black;
     margin-bottom: 5%;
-    padding-bottom: 5%;
+    padding-bottom: 2.5%;
 }
 
 .strategyHow, .workColab {
@@ -228,6 +228,7 @@ footer nav a {
 
 .strategy, .how, .work, .colab {
     border-bottom: 1px dashed black;
+    margin-bottom: 5%;
     
 }
 
@@ -250,5 +251,5 @@ footer nav a {
     width: 50%;
     text-align: center;
     margin-top: 5%;
-    margin-bottom: 5%;
+    margin-bottom: 10%;
 }
